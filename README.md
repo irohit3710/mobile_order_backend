@@ -1,5 +1,5 @@
 
-## Tech Alpha
+## Mobile Order
 
 Mobile Order is a cutting-edge backend server that forms the backbone of your digital infrastructure. With its powerful and dynamic architecture, Tech-Alpha empowers your applications and services to deliver seamless, high-performance experiences to users. This server is built with next.js, expresse, mongoose, cors and dotenv.
  
